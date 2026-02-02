@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 Mukesh Sapkota — Digital Twin AI
 
-## Getting Started
+This is a full-stack AI-powered Digital Twin that represents me online.  
+It allows recruiters to chat with my AI twin and learn about my skills, experience, and availability.
 
-First, run the development server:
+## 🔥 Features
+- Chat with Mukesh’s AI persona
+- Stores conversations using Prisma + SQLite
+- Built with Next.js 16 (App Router)
+- OpenAI-powered responses
+- Voice reply support (browser TTS)
+- Recruiter call-to-action links
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠 Tech Stack
+- Next.js
+- React
+- TypeScript
+- Prisma ORM
+- SQLite
+- OpenAI API
+- TailwindCSS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Purpose
+This project acts as my interactive portfolio for:
+- Hiring managers
+- Recruiters
+- Tech founders
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 👨‍💻 About Me
+**Mukesh Sapkota**  
+Full-Stack Developer  
+Top Skills:
+- Next.js & React
+- TypeScript
+- Prisma + SQL
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+GitHub: https://github.com/mukeshsapkota  
+LinkedIn: https://www.linkedin.com/in/mukesh-sapkota-400b32289/
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+⭐ If you like this project, feel free to connect with me!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
